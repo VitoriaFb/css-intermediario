@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  padding: 50px;
+  margin: 20px;
+}
+
+.fa-facebook {
+  margin: 16px;
+  color: rgb(22, 11, 229);
+  font-size: 50px;
+}
+
+.fa-facebook:hover {
+  color: rgb(59, 98, 238);
+}
+
+.fa-instagram{
+  margin: 16px;
+  font-size: 50px;
+  color: rgb(211, 60, 235);
+
+}
+
+.fa-instagram:hover{
+  color: rgb(160, 72, 242);
+}
+
+.fa-sun{
+  margin: 16px;
+  font-size: 50px;
+  color: rgb(255, 234, 0);
+}
+
+.fa-sun:hover{
+  color: rgb(255, 179, 0);
+}
